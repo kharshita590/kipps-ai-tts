@@ -1,0 +1,7 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-deepgram
+livekit-plugins-silero
+python-dotenv~=1.0
+aiofile~=3.8.8
+aiohttp

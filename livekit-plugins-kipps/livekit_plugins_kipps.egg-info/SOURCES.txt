@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.py
+livekit/plugins/kipps/__init__.py
+livekit/plugins/kipps/log.py
+livekit/plugins/kipps/models.py
+livekit/plugins/kipps/py.typed
+livekit/plugins/kipps/tts.py
+livekit/plugins/kipps/version.py
+livekit_plugins_kipps.egg-info/PKG-INFO
+livekit_plugins_kipps.egg-info/SOURCES.txt
+livekit_plugins_kipps.egg-info/dependency_links.txt
+livekit_plugins_kipps.egg-info/requires.txt
+livekit_plugins_kipps.egg-info/top_level.txt

@@ -1,0 +1,1 @@
+/Users/akhileshkumar/Desktop/kipps-tts-plugin/waves-examples/lightning/livekit_example/livekit-plugins-kipps/livekit/plugins/kipps/version.py
